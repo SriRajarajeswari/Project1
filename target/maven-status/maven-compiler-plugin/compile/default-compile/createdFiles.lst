@@ -1,0 +1,5 @@
+VGIS\qa\pages\VonageLogin.class
+VGIS\qa\util\TestUtil.class
+TestBasepac\TestBase.class
+VGIS\qa\pages\CallHistoryPage.class
+VGIS\qa\pages\LoginPage.class

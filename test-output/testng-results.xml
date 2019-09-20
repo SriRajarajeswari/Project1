@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69518" started-at="2019-09-19T10:17:45Z" finished-at="2019-09-19T10:18:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69518" started-at="2019-09-19T10:17:45Z" finished-at="2019-09-19T10:18:54Z">
+      <class name="VGIS.qa.Test.VonageLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:VGIS.qa.Test.VonageLoginTest@7d9d1a19]" name="setUp" is-config="true" duration-ms="20341" started-at="2019-09-19T10:17:45Z" finished-at="2019-09-19T10:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageSignUp()[pri:1, instance:VGIS.qa.Test.VonageLoginTest@7d9d1a19]" name="loginPageSignUp" duration-ms="73" started-at="2019-09-19T10:18:05Z" finished-at="2019-09-19T10:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageSignUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:VGIS.qa.Test.VonageLoginTest@7d9d1a19]" name="setUp" is-config="true" duration-ms="20804" started-at="2019-09-19T10:18:33Z" finished-at="2019-09-19T10:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="crmLogoImageTest()[pri:2, instance:VGIS.qa.Test.VonageLoginTest@7d9d1a19]" name="crmLogoImageTest" duration-ms="65" started-at="2019-09-19T10:18:54Z" finished-at="2019-09-19T10:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoImageTest -->
+      </class> <!-- VGIS.qa.Test.VonageLoginTest -->
+      <class name="VGIS.qa.Test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:VGIS.qa.Test.LoginPageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="25900" started-at="2019-09-19T10:18:05Z" finished-at="2019-09-19T10:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageSignUp()[pri:1, instance:VGIS.qa.Test.LoginPageTest@39c0f4a]" name="loginPageSignUp" duration-ms="2299" started-at="2019-09-19T10:18:31Z" finished-at="2019-09-19T10:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageSignUp -->
+      </class> <!-- VGIS.qa.Test.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
